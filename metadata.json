@@ -1,0 +1,6 @@
+{
+  "name": "Afro RTS 2D: City Defense",
+  "description": "Jeu de stratégie tactique en temps réel (RTS 2D) et tir d'action dans les métropoles africaines (Lomé, Dakar, Abidjan, Nairobi, Lagos).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
